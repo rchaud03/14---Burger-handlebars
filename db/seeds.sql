@@ -1,4 +1,3 @@
-
 INSERT INTO burgers (burger_name, devoured) VALUES ('turkey avocado jalapenos', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('black bean avocado', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('angus tripple bypass', false);
